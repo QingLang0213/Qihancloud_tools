@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/protobuf-java-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/aliyun-sdk-oss-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/lib/aliyun-sdk-oss-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/aliyun_java_sdk_20170426/lib/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/http/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/http/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/http/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/json.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/redis/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/redis/jedis-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/java_extend/jfxrt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

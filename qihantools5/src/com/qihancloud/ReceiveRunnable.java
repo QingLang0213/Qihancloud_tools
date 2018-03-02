@@ -1,0 +1,1 @@
+package com.qihancloud;import com.msg.Msg;public class ReceiveRunnable implements Runnable {	Msg msg;	public ReceiveRunnable(Msg msg) {		this.msg = msg;	}	@Override	public void run() {		getMsg(msg);	}	private void getMsg(Msg msg) {		msg.receiveMsg();	}}

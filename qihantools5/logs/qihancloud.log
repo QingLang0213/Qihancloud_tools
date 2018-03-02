@@ -1,0 +1,145 @@
+2018-03-01 14:29:12--[DEBUG]--[QiHanServer.java:135]---306 qlink account login success:a95eef9b-fe0f-425e-a8a7-61542e913eab306
+2018-03-01 14:29:28--[DEBUG]--[QiHanServer.java:135]---20000 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b4036420000
+2018-03-01 14:29:42--[DEBUG]--[QiHanServer.java:135]---10000000 qlink account login success:56de299c-0376-42dd-bd36-e9496a41d10710000000
+2018-03-01 14:29:56--[DEBUG]--[QiHanServer.java:135]---306 qlink account login success:a95eef9b-fe0f-425e-a8a7-61542e913eab306
+2018-03-01 14:30:14--[DEBUG]--[ToolsLogic.java:624]---add_friend pressed
+2018-03-01 14:30:14--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:14--[DEBUG]--[QiHanServer.java:135]---1000 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001000
+2018-03-01 14:30:14--[INFO]--[HandleMsg.java:23]---1000rsp commands:132866
+2018-03-01 14:30:14--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:14--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:14--[DEBUG]--[QiHanServer.java:592]---306收到1000的添加好友请求
+2018-03-01 14:30:15--[INFO]--[HandleMsg.java:23]---1000rsp commands:132677
+2018-03-01 14:30:15--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:15--[DEBUG]--[QiHanServer.java:689]---1000 收到对方已同意请求
+2018-03-01 14:30:15--[DEBUG]--[QiHanServer.java:690]---ask_id:1000 msg_id:20
+2018-03-01 14:30:15--[DEBUG]--[QiHanServer.java:652]---306同意1000添加好友请求
+2018-03-01 14:30:15--[INFO]--[HandleMsg.java:23]---1000rsp commands:132648
+2018-03-01 14:30:16--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:16--[DEBUG]--[QiHanServer.java:135]---1001 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001001
+2018-03-01 14:30:16--[INFO]--[HandleMsg.java:23]---1001rsp commands:132866
+2018-03-01 14:30:16--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:16--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:16--[DEBUG]--[QiHanServer.java:592]---306收到1001的添加好友请求
+2018-03-01 14:30:17--[INFO]--[HandleMsg.java:23]---1001rsp commands:132677
+2018-03-01 14:30:17--[DEBUG]--[QiHanServer.java:689]---1001 收到对方已同意请求
+2018-03-01 14:30:17--[DEBUG]--[QiHanServer.java:690]---ask_id:1001 msg_id:13
+2018-03-01 14:30:17--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:17--[DEBUG]--[QiHanServer.java:652]---306同意1001添加好友请求
+2018-03-01 14:30:17--[INFO]--[HandleMsg.java:23]---1001rsp commands:132648
+2018-03-01 14:30:17--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:18--[DEBUG]--[QiHanServer.java:135]---1002 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001002
+2018-03-01 14:30:18--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:18--[DEBUG]--[QiHanServer.java:592]---306收到1002的添加好友请求
+2018-03-01 14:30:18--[INFO]--[HandleMsg.java:23]---1002rsp commands:132866
+2018-03-01 14:30:18--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:18--[INFO]--[HandleMsg.java:23]---1002rsp commands:132677
+2018-03-01 14:30:18--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:18--[DEBUG]--[QiHanServer.java:689]---1002 收到对方已同意请求
+2018-03-01 14:30:18--[DEBUG]--[QiHanServer.java:690]---ask_id:1002 msg_id:12
+2018-03-01 14:30:18--[DEBUG]--[QiHanServer.java:652]---306同意1002添加好友请求
+2018-03-01 14:30:18--[INFO]--[HandleMsg.java:23]---1002rsp commands:132648
+2018-03-01 14:30:19--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:19--[DEBUG]--[QiHanServer.java:135]---1003 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001003
+2018-03-01 14:30:19--[INFO]--[HandleMsg.java:23]---1003rsp commands:132866
+2018-03-01 14:30:19--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:19--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:19--[DEBUG]--[QiHanServer.java:592]---306收到1003的添加好友请求
+2018-03-01 14:30:20--[INFO]--[HandleMsg.java:23]---1003rsp commands:132678
+2018-03-01 14:30:20--[INFO]--[HandleMsg.java:23]---1003rsp commands:132677
+2018-03-01 14:30:20--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:20--[DEBUG]--[QiHanServer.java:689]---1003 收到对方已同意请求
+2018-03-01 14:30:20--[DEBUG]--[QiHanServer.java:690]---ask_id:1003 msg_id:12
+2018-03-01 14:30:20--[DEBUG]--[QiHanServer.java:652]---306同意1003添加好友请求
+2018-03-01 14:30:20--[INFO]--[HandleMsg.java:23]---1003rsp commands:132648
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:21--[DEBUG]--[QiHanServer.java:135]---1004 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001004
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:21--[DEBUG]--[QiHanServer.java:592]---306收到1004的添加好友请求
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---1004rsp commands:132866
+2018-03-01 14:30:21--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---1004rsp commands:132678
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---1004rsp commands:132677
+2018-03-01 14:30:21--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:21--[DEBUG]--[QiHanServer.java:689]---1004 收到对方已同意请求
+2018-03-01 14:30:21--[DEBUG]--[QiHanServer.java:690]---ask_id:1004 msg_id:22
+2018-03-01 14:30:21--[DEBUG]--[QiHanServer.java:652]---306同意1004添加好友请求
+2018-03-01 14:30:22--[INFO]--[HandleMsg.java:23]---1004rsp commands:132648
+2018-03-01 14:30:22--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:23--[DEBUG]--[QiHanServer.java:135]---1005 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001005
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---1005rsp commands:132866
+2018-03-01 14:30:23--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:23--[DEBUG]--[QiHanServer.java:592]---306收到1005的添加好友请求
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---1005rsp commands:132678
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---1005rsp commands:132677
+2018-03-01 14:30:23--[DEBUG]--[QiHanServer.java:689]---1005 收到对方已同意请求
+2018-03-01 14:30:23--[DEBUG]--[QiHanServer.java:690]---ask_id:1005 msg_id:18
+2018-03-01 14:30:23--[DEBUG]--[QiHanServer.java:652]---306同意1005添加好友请求
+2018-03-01 14:30:23--[INFO]--[HandleMsg.java:23]---1005rsp commands:132648
+2018-03-01 14:30:24--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:24--[DEBUG]--[QiHanServer.java:135]---1006 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001006
+2018-03-01 14:30:24--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:24--[DEBUG]--[QiHanServer.java:592]---306收到1006的添加好友请求
+2018-03-01 14:30:24--[INFO]--[HandleMsg.java:23]---1006rsp commands:132866
+2018-03-01 14:30:24--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:24--[INFO]--[HandleMsg.java:23]---1006rsp commands:132678
+2018-03-01 14:30:25--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:25--[INFO]--[HandleMsg.java:23]---1006rsp commands:132677
+2018-03-01 14:30:25--[DEBUG]--[QiHanServer.java:689]---1006 收到对方已同意请求
+2018-03-01 14:30:25--[DEBUG]--[QiHanServer.java:690]---ask_id:1006 msg_id:32
+2018-03-01 14:30:25--[DEBUG]--[QiHanServer.java:652]---306同意1006添加好友请求
+2018-03-01 14:30:25--[INFO]--[HandleMsg.java:23]---1006rsp commands:132648
+2018-03-01 14:30:25--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:26--[DEBUG]--[QiHanServer.java:135]---1007 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001007
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:26--[DEBUG]--[QiHanServer.java:592]---306收到1007的添加好友请求
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---1007rsp commands:132866
+2018-03-01 14:30:26--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---1007rsp commands:132678
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---1007rsp commands:132677
+2018-03-01 14:30:26--[DEBUG]--[QiHanServer.java:689]---1007 收到对方已同意请求
+2018-03-01 14:30:26--[DEBUG]--[QiHanServer.java:690]---ask_id:1007 msg_id:27
+2018-03-01 14:30:26--[DEBUG]--[QiHanServer.java:652]---306同意1007添加好友请求
+2018-03-01 14:30:26--[INFO]--[HandleMsg.java:23]---1007rsp commands:132648
+2018-03-01 14:30:27--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:27--[DEBUG]--[QiHanServer.java:135]---1008 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001008
+2018-03-01 14:30:27--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:27--[INFO]--[HandleMsg.java:23]---1008rsp commands:132866
+2018-03-01 14:30:27--[DEBUG]--[QiHanServer.java:592]---306收到1008的添加好友请求
+2018-03-01 14:30:27--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:28--[INFO]--[HandleMsg.java:23]---1008rsp commands:132678
+2018-03-01 14:30:28--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:28--[INFO]--[HandleMsg.java:23]---1008rsp commands:132677
+2018-03-01 14:30:28--[DEBUG]--[QiHanServer.java:689]---1008 收到对方已同意请求
+2018-03-01 14:30:28--[DEBUG]--[QiHanServer.java:690]---ask_id:1008 msg_id:11
+2018-03-01 14:30:28--[DEBUG]--[QiHanServer.java:652]---306同意1008添加好友请求
+2018-03-01 14:30:28--[INFO]--[HandleMsg.java:23]---1008rsp commands:132648
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:29--[DEBUG]--[QiHanServer.java:135]---1009 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001009
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---1009rsp commands:132866
+2018-03-01 14:30:29--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:29--[DEBUG]--[QiHanServer.java:592]---306收到1009的添加好友请求
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---1009rsp commands:132678
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:29--[INFO]--[HandleMsg.java:23]---1009rsp commands:132677
+2018-03-01 14:30:29--[DEBUG]--[QiHanServer.java:689]---1009 收到对方已同意请求
+2018-03-01 14:30:29--[DEBUG]--[QiHanServer.java:690]---ask_id:1009 msg_id:9
+2018-03-01 14:30:30--[DEBUG]--[QiHanServer.java:652]---306同意1009添加好友请求
+2018-03-01 14:30:30--[INFO]--[HandleMsg.java:23]---1009rsp commands:132648
+2018-03-01 14:30:30--[INFO]--[HandleMsg.java:23]---306rsp commands:132870
+2018-03-01 14:30:31--[DEBUG]--[QiHanServer.java:135]---1010 qlink account login success:d18f09be-9c53-4fa9-9e18-f970a5b40364200001010
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---306rsp commands:132673
+2018-03-01 14:30:31--[DEBUG]--[QiHanServer.java:592]---306收到1010的添加好友请求
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---1010rsp commands:132866
+2018-03-01 14:30:31--[INFO]--[QiHanServer.java:572]---RC_OK
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---1010rsp commands:132678
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---306rsp commands:132676
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---1010rsp commands:132677
+2018-03-01 14:30:31--[DEBUG]--[QiHanServer.java:689]---1010 收到对方已同意请求
+2018-03-01 14:30:31--[DEBUG]--[QiHanServer.java:690]---ask_id:1010 msg_id:9
+2018-03-01 14:30:31--[DEBUG]--[QiHanServer.java:652]---306同意1010添加好友请求
+2018-03-01 14:30:31--[INFO]--[HandleMsg.java:23]---1010rsp commands:132648
